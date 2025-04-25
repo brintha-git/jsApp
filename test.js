@@ -1,3 +1,3 @@
 // test.js
 
-alert("Hello, this is a simple JavaScript file!");
+alert("Hello, Hello, this is a simple JavaScript file!");
